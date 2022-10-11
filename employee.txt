@@ -1,0 +1,8 @@
+1001:Thomson:SE:IVS:Mysore:10-Feb-1999:60000
+1002:Johnson:TE:E&R:Bangalore:18-Jun-2000:50000
+1003:Jackson:DM:IMS:Hyderabad:23-Apr-1985:90000
+1004:Bob:GL:E&R:Mysore:05-Jan-2004:55000
+1005:Alice:PA:PLES:Chandigarh:12-Mar-2006:25000
+1006:Lily:SE:IVS:Bangalore:17-Dec-2002:40000
+1007:Kirsten:PM:IMS:Mysore:17-Jan-2000:45000
+1004:Bob:GL:E&R:Mysore:05-Jan-2004:55000
